@@ -1,0 +1,50 @@
+/* GLOBAL */
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* STYLE */
+
+/* CONTAINERS */
+
+.container-s {
+}
+
+.container-m {
+}
+
+.container-l {
+}
+
+/* ICON */
+
+/* BUTTON */
+
+/* HEADER  */
+
+.header-bar {
+  width: 100%;
+  height: 100px;
+  background-color: goldenrod;
+}
+
+/* SPOTLIGHT  */
+
+/* PLAN SELECTOR  */
+
+/* ENTERPRISE  */
+
+/* PARTNER  */
+
+/* FEATURES  */
+
+/* TESTIMONIAL  */
+
+/* FREE TRIAL  */
+
+/* FAQ */
+
+/* FOOTER */
