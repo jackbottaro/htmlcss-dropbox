@@ -132,6 +132,10 @@ ul{
   
 }
 
+.fa-arrow-down{
+  font-size: 45px;
+}
+
 /* BUTTON */
 
 .btn{
@@ -150,7 +154,14 @@ ul{
 
 /* HEADER  */
 
+header{
+  margin-bottom: 80px;
+}
+
 .navbar {
+  /* position: fixed; */
+  width: 100%;
+  background-color: white;
   height: 80px;
   line-height: 80px;
 }
@@ -171,9 +182,37 @@ ul{
 
 /* SPOTLIGHT  */
 
-.spotlight-section {
-  height: 500px;
+.spotlight {
+  height: 730px;
   background-color: #b4d0e7;
+  margin-bottom: 200px;
+}
+
+.spotlight-content h2{
+  padding-top: 80px;
+  padding-bottom: 50px;
+font-size: 70px;
+}
+
+.spotlight-content p:first-of-type{
+  font-weight: 500;
+  padding-bottom: 30px;
+}
+
+.spotlight-content p:last-of-type{
+  font-weight: 500;
+padding-top: 16px;
+padding-bottom: 50px;
+font-size: 14px;
+}
+
+.spotlight-content a{
+  margin-bottom: 20px;
+}
+
+.spotlight-content img{
+  width: 850px;
+margin-left: 90px;
 }
 
 /* PLAN SELECTOR  */
