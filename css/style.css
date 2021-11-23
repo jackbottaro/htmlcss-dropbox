@@ -157,7 +157,7 @@ ul {
 }
 
 .w-80 {
-  width: 80%;
+  width: 79%;
 }
 
 .w-100 {
@@ -198,6 +198,7 @@ ul {
   border: 1px solid black;
   padding: 5px 19px;
 }
+
 .btn.btn-blue {
   color: white;
   background-color: #0061ff;
@@ -317,6 +318,7 @@ ul {
 }
 
 /*** Plan text ***/
+
 .plan-specs h2 {
   margin-top: 15px;
   margin-bottom: 15px;
@@ -365,6 +367,7 @@ ul {
   padding-left: 18px;
   text-indent: -9px;
 }
+
 /* ENTERPRISE  */
 
 .enterprise-plan-section {
@@ -427,6 +430,7 @@ ul {
 .partner-finder-section .text-section {
   padding: 40px 50px;
 }
+
 /* FEATURES  */
 
 .features-section {
@@ -442,7 +446,6 @@ ul {
 .features-section .card {
   margin-bottom: 80px;
   height: 500px;
-  border: 1px solid red;
 }
 
 .card img {
@@ -463,6 +466,7 @@ ul {
 .text-section span {
   text-decoration: underline;
 }
+
 .card {
   margin-bottom: 100px;
 }
@@ -499,6 +503,7 @@ ul {
   position: relative;
   fill: white;
 }
+
 .square-testimonial img {
   filter: invert(100%);
   width: 50%;
@@ -559,13 +564,14 @@ ul {
 
 .faq-section-inline div,
 i {
-  display: inline;
+  display: inline-block;
 }
 
 .faq-section-inline i {
   text-align: right;
-  width: 34%;
+  width: 100%;
 }
+
 .faq-section {
   margin-top: 100px;
 }
